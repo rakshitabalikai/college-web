@@ -1,0 +1,77 @@
+.anu{
+    width: 100px;
+    height: 50px;
+}
+.title1{
+    color: green;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    margin-top: 300px;
+}
+.set{
+    display: flex;
+}
+.mov1{
+    width: 500px;
+    height: 200px;
+}
+.mov2{
+    width: 500px;
+    height: 400px;
+}
+.mov3{
+    width: 500px;
+    height: 200px;
+}
+.mov4{
+    color: green;
+    font-size: 30px;
+}
+.mov5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    /* justify-content: center; */
+}
+.comit{
+    display: flex;
+}
+
+.mov6{
+    color: green;
+    font-size: 30px;
+
+}
+.maa{
+    background-color: rgb(156, 222, 237);
+}
+.mov7{
+    width: 900px;
+    height: 500px;
+}
+.row1{
+    background-color: bisque;
+}
+.row2{
+    background-color: rgb(193, 129, 176);
+}
+.event{
+    color: green;
+    font-size: 20px;
+}
+.secura{
+    justify-content: center;
+    display: flex;
+    color: red;
+}
+.secimg{
+    width: 600px;
+}
+.workshop{
+    font-size: 16px;
+    color: rgb(255, 0, 0);
+    justify-content: center;
+    display: flex;
+}
+.worimg{
+    width: 600px;
+}

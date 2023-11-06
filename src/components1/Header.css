@@ -1,0 +1,60 @@
+
+
+.rak{
+    background-color: black;
+    color: white;
+    height: 50px;
+    display: flex;
+  }
+  .m1{
+    background-color: black;
+    color: white;
+    margin-left: 30px;
+  }
+  .m2{
+    margin-left: 60px;
+  }
+  .m3{
+    margin-left: 60PX;
+  }
+  .m4{
+    margin-left: 600px;
+    display: flex;
+  }
+  .m5{
+    margin-left: 100px;
+  }
+.ab{
+    display: flex;
+
+    background-color: green;
+    color: aliceblue;
+}  
+.ba{
+    margin: 15px;
+    color: aliceblue;
+}
+.ac{
+    margin: 15px;
+    color: aliceblue;
+}
+.ad{
+    color: aliceblue;
+    margin: 15px;
+}
+.ae{
+    color: aliceblue;
+    margin: 15px;
+}
+.af{
+    color: aliceblue;
+    margin: 15px;
+}
+.ag{
+    color: aliceblue;
+    margin: 15px;
+}
+.ah{
+    color: aliceblue;
+    margin: 15px;
+}
