@@ -19,7 +19,7 @@ function Header(){
             </div>
        
           <diV className='ab'>
-            <img src={a1}  alt=" picture"className='a1'></img>
+            <img src={a1}  alt="photoss"className='a1'></img>
             <div className='ba'>
             <h2> Home</h2>
             </div>

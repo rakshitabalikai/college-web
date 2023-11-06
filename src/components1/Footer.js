@@ -5,7 +5,7 @@ function Footer(){
     return(
         <div>  
         <div className='ai'>
-        <img src={a2} alt=" stjit photo" className='a2'></img>
+        <img src={a2} alt="stjit" className='a2'></img>
     </div>
      </div>
       
