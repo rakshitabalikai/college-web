@@ -25,7 +25,7 @@ function Title(){
                     <h4>Dr. Shivamurthy Shivacharya Mahaswamiji <br></br>President, <br></br>STJ Education Society</h4>
                 </div>
                 <div>
-                    <img src={a6} className='mov3'></img>
+                    <img src={a6} className='mov3' alt="clg4"></img>
                     <br></br>
                     <img src={a7} alt="colle" className='mov3'></img>
                 </div>
