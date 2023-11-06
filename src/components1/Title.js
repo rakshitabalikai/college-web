@@ -16,18 +16,18 @@ function Title(){
             </div>
             <div className='set'>
                 <div>
-                    <img src={a3} className='mov1'></img>
+                    <img src={a3} alt=" clg3 photos" className='mov1'></img>
                     <br></br>
-                    <img src={a4} className='mov1'></img>
+                    <img src={a4} alt=" clg2 photos" className='mov1'></img>
                 </div>
                 <div>
-                    <img src={a5} className='mov2'></img>
+                    <img src={a5} alt=" clg1 photos" className='mov2'></img>
                     <h4>Dr. Shivamurthy Shivacharya Mahaswamiji <br></br>President, <br></br>STJ Education Society</h4>
                 </div>
                 <div>
                     <img src={a6} className='mov3'></img>
                     <br></br>
-                    <img src={a7} className='mov3'></img>
+                    <img src={a7} alt="colle img" className='mov3'></img>
                 </div>
             </div>
             <div className='maa'>
@@ -40,7 +40,7 @@ function Title(){
                 </p>
                 </div>
             <div>
-                <img src={a8}></img>
+                <img src={a8} alt="coll img "></img>
             </div>
             </div>
             </div>
@@ -48,7 +48,7 @@ function Title(){
                 <h1> C.S.E Department</h1>
                 </div>
             <div>
-                <img src={a9} className='mov7'></img>
+                <img src={a9} alt="clg photo" className='mov7'></img>
             </div>
             <div className='row1'>            
                 <div>
@@ -72,7 +72,7 @@ function Title(){
             <div>
                 <div className='secura'>
                 <h2> secura 2k23: Sport & Extra curricular activites</h2>
-                <img className='secimg' src={b1}></img>
+                <img className='secimg' alt="Secura Pic" src={b1}></img>
                 </div>
               <hr></hr>
             
