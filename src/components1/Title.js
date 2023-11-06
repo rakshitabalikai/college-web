@@ -12,7 +12,7 @@ function Title(){
         <div>
   
             <div className='title1'>
-                <h2>WELCOME TO OUR COLLEGE</h2>
+                <h2>WELCOME TO OUR jail</h2>
             </div>
             <div className='set'>
                 <div>
